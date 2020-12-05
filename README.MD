@@ -1,4 +1,4 @@
-*Simple Calculator*
+*Simple Calculator (Python)*
 =================
 
 Application's exe-file is into 'dist' catalog.
